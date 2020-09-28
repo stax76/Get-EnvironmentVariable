@@ -3,11 +3,11 @@
 
 .DESCRIPTION PowerShell script that manages environment variables.
 
-.VERSION 1.0
+.VERSION 1.1
 
 .GUID 7f47c6da-f7af-45c4-a997-18ca3192de21
 
-.AUTHOR frank.skare.de@gmail.com
+.AUTHOR Frank Skare (stax76)
 
 .COPYRIGHT (C) Frank Skare (stax76)
 
