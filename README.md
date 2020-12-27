@@ -2,6 +2,8 @@
 
 PowerShell script to manage environment variables.
 
+A similar Python application called [userpath](https://pypi.org/project/userpath) exists.
+
 ## Download and Installation
 
 https://www.powershellgallery.com/packages/Get-EnvironmentVariable
